@@ -18,7 +18,7 @@ Then [configure Netlify Identity](#user-content-enable--configure-netlify-identi
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```shell
-    gatsby new my-docz-site https://github.com/colbyfayock/gatsby-starter-docz-netlifycms
+    gatsby new my-docz-site https://github.com/sgmelayu/gatsby-starter-docz-netlifycms-1
     ```
 
 1.  **Start developing.**
@@ -37,7 +37,7 @@ Then [configure Netlify Identity](#user-content-enable--configure-netlify-identi
 ## ⚡ Quick Start with Netlify
 
 ### Deploy to Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/gatsby-starter-docz-netlifycms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sgmelayu/gatsby-starter-docz-netlifycms-1)
 
 Note: This will request Github access and will create a repository for you
 
